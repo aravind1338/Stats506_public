@@ -15,3 +15,6 @@ Public repo for Stats 506
 3. Week 3: We created a public git repository, edited the README markdown file to include information about the course and reinforced Git and Markdown concepts
 
 ## Weeks 4-6
+
+1. Week 4: In part 1, we wrote dplyr pipes to analyze the Orange dataset from R's datasets package. In part 2, we used ggplot to use summary results from an analysis of the 2015 RECS dataset.
+2. Week 5: We first finished up part 2 of last week's activity, and then moved on to do a peer review of the github repos of our classmates.
