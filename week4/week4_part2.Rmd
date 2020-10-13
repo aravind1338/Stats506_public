@@ -57,7 +57,7 @@ p1 = ggplot(plot_data_q1, aes(x=division, y=est, color=rurality)) + coord_flip()
   geom_errorbar(aes(ymin = lwr, ymax = upr), position = position_dodge(width = 0.4)) + ylab("Proportion of homes with internet access.")
 
 
-ggsave('w4_p2_q1_plot.png', p1)
+ggsave('w4_p2_q1_plot.png', p1, width = 5, height = 5)
 p1
 ```
 
